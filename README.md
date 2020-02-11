@@ -6,7 +6,7 @@
 
 ### Its small and insignificant and should be ignored.
 
-*The atmosphere of Mars is the layer of gas surrounding Mars. It is primarily composed of carbon dioxide (95.32%), molecular nitrogen (2.6%) and argon (1.9%).*
+*The atmosphere of Mars is the layer of gas surrounding Mars. It is primarily composed of carbon dioxide (95.32%), molecular nitrogen (2.6%) and argon (1.9%).*1
 
 **It also contains trace levels of water vapor, oxygen, carbon monoxide, hydrogen and other noble gases.**
 
