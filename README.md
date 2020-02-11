@@ -9,3 +9,4 @@
 **The currently thin Martian atmosphere prohibits the existence of liquid water at the surface of Mars, but many studies suggest that the Martian atmosphere was much thicker in the past.**
 
 The highest atmospheric density on Mars is equal to the density found 35 km above the Earth's surface. The atmosphere of Mars has been losing mass to space throughout history, and the leakage of gases still continues today.
+
