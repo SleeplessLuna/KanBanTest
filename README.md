@@ -1,1 +1,3 @@
 # KanBanTest
+
+Space debris (also known as space junk, space pollution,space waste, space trash, or space garbage) is a term for defunct human-made objects in space—principally in Earth orbit—which no longer serve a useful function. This can include nonfunctional spacecraft, abandoned launch vehicle stages, mission-related debris and fragmentation debris. Examples of space debris include derelict satellites and spent rocket stages as well as the fragments from their disintegration, erosion and collisions, such as paint flecks, solidified liquids from spacecraft breakups, unburned particles from solid rocket motors, etc. Space debris represents a risk to spacecraft.
